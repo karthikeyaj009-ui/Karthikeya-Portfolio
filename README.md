@@ -1,7 +1,7 @@
 # Hey, I'm Karthikeya Janjanam 👋
 
-**Data Engineer** | Snowflake • Databricks • Python • SQL  
-📍 Arlington, TX | 📧 karthikeyaj009@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/karthikeya-janjanam) | 📄 [Resume](https://raw.githubusercontent.com/YOUR_USERNAME/portfolio/main/Karthikeya_Resume.pdf)
+**Data Engineer** | Snowflake • Databricks • Python • SQL • Azure • AWS • DBT • Airflow • Kafka 
+📍 Arlington, TX | 📧 karthikeyaj009@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/karthikeya2701/) 
 
 ---
 
@@ -44,19 +44,8 @@
 
 ## 🚀 Featured Projects
 
-### 1. RAG PDF Reader & Document Understanding
-*LangChain • Azure OpenAI • Python • Pinecone*
 
-Production-grade RAG system for policy document Q&A with source-backed citations.
-- Hybrid retrieval (BM25 + semantic vector similarity)
-- **95%+ accuracy** | Sub-second latency
-- Handles multi-page PDFs with tables & nested sections
-
-[View on GitHub](https://github.com/YOUR_USERNAME/rag-pdf-reader)
-
----
-
-### 2. Airbnb Analytics Engineering — Bronze to Gold Pipeline
+### 1. Airbnb Analytics Engineering — Bronze to Gold Pipeline
 *Snowflake • dbt Core • AWS S3 • SQL*
 
 End-to-end medallion architecture data pipeline.
@@ -65,7 +54,18 @@ End-to-end medallion architecture data pipeline.
 - **Gold:** One Big Table (OBT) + Dimensional Modeling (Star Schema)
 - **Advanced:** dbt snapshots (SCD Type 2), Jinja macros, lineage tracking, data tests
 
-[View on GitHub](https://github.com/YOUR_USERNAME/airbnb-dbt-pipeline)
+
+---
+
+### 2. RAG PDF Reader & Document Understanding
+*LangChain • Azure OpenAI • Python • Pinecone*
+
+Production-grade RAG system for policy document Q&A with source-backed citations.
+- Hybrid retrieval (BM25 + semantic vector similarity)
+- **95%+ accuracy** | Sub-second latency
+- Handles multi-page PDFs with tables & nested sections
+
+
 
 ---
 
@@ -78,7 +78,7 @@ Translate business questions to SQL queries for non-technical users.
 - Auto-validates & corrects SQL errors
 - Multi-table joins, aggregations, ranking functions, time-series
 
-[View on GitHub](https://github.com/YOUR_USERNAME/text-to-sql)
+
 
 ---
 
@@ -112,7 +112,7 @@ Translate business questions to SQL queries for non-technical users.
 ## 🤝 Let's Connect
 
 I'm actively looking for **Senior Data Engineer** roles in:
-- Scalable data platforms (Snowflake, Databricks, AWS)
+- Scalable data platforms (Snowflake, Databricks, AWS, Azure, DBT, Airflow, Kafka)
 - Real-time streaming & event-driven architectures
 - Generative AI & data products
 - Cloud migrations
@@ -121,10 +121,9 @@ I'm actively looking for **Senior Data Engineer** roles in:
 
 ### 📧 Contact
 - **Email:** karthikeyaj009@gmail.com
-- **LinkedIn:** [linkedin.com/in/karthikeya-janjanam](https://www.linkedin.com/in/karthikeya-janjanam)
-- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **Resume:** [Download PDF](https://raw.githubusercontent.com/YOUR_USERNAME/portfolio/main/Karthikeya_Resume.pdf)
+- **PhoneNumber:** 682-231-3515
+- **LinkedIn:** https://www.linkedin.com/in/karthikeya2701/
+
 
 ---
 
-**Last Updated:** August 2026 | Built with ❤️
