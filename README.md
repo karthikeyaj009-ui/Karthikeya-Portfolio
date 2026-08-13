@@ -1,8 +1,8 @@
 # Hey, I'm Karthikeya Janjanam 👋
 
 **Data Engineer** | Snowflake • Databricks • Python • SQL • Azure • AWS • DBT • Airflow • Kafka 
-📍 Arlington, TX |   
-📧 karthikeyaj009@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/karthikeya2701/) 
+
+📍 Arlington, TX |📧 karthikeyaj009@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/karthikeya2701/) 
 
 ---
 
