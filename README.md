@@ -1,13 +1,14 @@
 # Hey, I'm Karthikeya Janjanam 👋
 
 **Data Engineer** | Snowflake • Databricks • Python • SQL • Azure • AWS • DBT • Airflow • Kafka 
-📍 Arlington, TX | 📧 karthikeyaj009@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/karthikeya2701/) 
+📍 Arlington, TX |   
+📧 karthikeyaj009@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/karthikeya2701/) 
 
 ---
 
 ## 🎯 About Me
 
-**Senior Data Engineer** with **5+ years** designing enterprise data platforms and ETL/ELT pipelines at scale. I specialize in **Snowflake, Databricks, and Microsoft Fabric**, building data products that process billions of records across financial services, investment platforms, and cloud-native systems.
+**Senior Data Engineer** with **5+ years** designing enterprise data platforms and ETL/ELT pipelines at scale. I specialize in **Snowflake, Databricks, Microsoft Fabric, AWS, Azure, DBT, Airflow, Kafka**, building data products that process billions of records across financial services, investment platforms, and cloud-native systems.
 
 **I solve real problems:** scaling data pipelines, optimizing warehouse performance, building AI-ready data infrastructure, and turning complexity into competitive advantage.
 
