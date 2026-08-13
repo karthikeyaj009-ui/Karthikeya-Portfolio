@@ -1,18 +1,130 @@
-# 💫 About Me:
-# Hey, I'm Karthikeya Janjanam 👋<br><br>**Data Engineer** | Building scalable data platforms with Python, SQL, Snowflake & Databricks  <br>📍 Arlington, TX | 📧 karthikeyaj009@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/karthikeya-janjanam) | 📄 [Resume](https://github.com/[your-username]/portfolio/raw/main/Karthikeya_Resume.pdf)<br><br>---<br><br>## 🎯 About Me<br><br>I'm a **Senior Data Engineer** with **5+ years** architecting enterprise data platforms and designing high-performance ETL/ELT pipelines. I specialize in **Snowflake, Databricks, and Microsoft Fabric**, working across financial services, investment platforms, and cloud-native architectures. <br><br>I solve real problems: scaling data ingestion from millions to billions of records, optimizing warehouse performance, and building AI-ready data products that drive business decisions.<br><br>**Currently:** Data Engineer at **Charles Schwab** | Processing 12TB+ daily transactions for 500K+ investors  <br>**Previously:** ETL Developer at **Mphasis** | Banking data integration for 20M+ loan records<br><br>---<br><br>## 💼 Experience Highlights<br><br>### **Charles Schwab** — Data Engineer *(Jul 2024 – Present)*<br>- **AI Portfolio Intelligence**: Designed scalable financial data platforms processing 12TB+ daily transactions across Snowflake, Databricks, Spark, and Kafka for 500K+ investors<br>- **Real-Time Analytics**: Developed event-driven ETL/ELT pipelines using Databricks + Kafka + dbt, improving analytics latency by **45%**<br>- **Generative AI Data Products**: Built RAG solutions with LangChain, LangGraph, and Azure OpenAI for investment explanations; increased accuracy by **35%**, reduced advisor research time by **40%**<br>- **Data Governance**: Consolidated 50M+ portfolio records using Airflow, Snowflake, Unity Catalog, and enterprise data modeling<br><br>### **Mphasis** — ETL Developer *(Jun 2020 – Nov 2022)*<br>- **Banking Data Reporting**: Built enterprise ETL workflows handling 20M+ loan and payment records using Informatica PowerCenter, Oracle SQL, and Azure Data Factory<br>- **Data Quality & Compliance**: Maintained **99.8% data consistency** across 15+ banking applications; automated validation increased integrity by **40%**<br>- **Performance Optimization**: Optimized batch processing by **35%** through SQL tuning, PySpark transformations, and incremental load strategies<br><br>---<br><br>## 🛠️ Technical Skills<br><br>**Languages & Query**  <br>Python • SQL • PySpark • PL/SQL • Jinja • YAML<br><br>**Data Platforms**  <br>Snowflake • Databricks • Microsoft Fabric • Azure Data Factory • AWS S3/Glue<br><br>**Data Engineering**  <br>dbt (Core & Cloud) • Apache Kafka • Apache Airflow • Great Expectations • ETL/ELT Design<br><br>**Data Modeling & Architecture**  <br>Bronze-Silver-Gold Medallion • Star Schema • Slowly Changing Dimensions • Data Lineage • Unity Catalog<br><br>**AI & GenAI**  <br>LangChain • LangGraph • RAG Pipelines • Azure OpenAI • Vector Databases (Pinecone)<br><br>**Cloud & DevOps**  <br>AWS (S3, Glue, Lakehouse) • Microsoft Azure • Terraform • Docker • GitHub Actions • CI/CD<br><br>---<br><br>## 🚀 Featured Projects<br><br>### **1. RAG PDF Reader & Document Understanding**<br>*LangChain • Azure OpenAI • Python • Pinecone*<br><br>Built a production-grade RAG system for policy document Q&A with source-backed citations.<br><br>**Key Highlights:**<br>- Hybrid retrieval combining BM25 + semantic vector similarity  <br>- Multi-query expansion for complex queries  <br>- **95%+ response accuracy** with sub-second latency  <br>- Enterprise-ready error handling & logging<br><br>[📌 GitHub Repo](#) | [🔗 Live Demo](#)<br><br>---<br><br>### **2. Airbnb Analytics Engineering — Bronze to Gold Pipeline**<br>*Snowflake • dbt Core • AWS S3 • SQL*<br><br>End-to-end modern analytics engineering pipeline ingesting Airbnb datasets and transforming them into analytics-ready models.<br><br>**Architecture & Deliverables:**<br>- **Bronze Layer**: Raw data ingestion from AWS S3 via Snowflake external stages  <br>- **Silver Layer**: Data cleaning, standardization, and business rule implementation  <br>- **Gold Layer**: Two analytical models — One Big Table (OBT) + Dimensional Modeling (Star Schema)  <br>- **Advanced Features**: dbt snapshots (SCD Type 2), Jinja macros, source lineage tracking, data quality tests  <br><br>**Business Value:**<br>- Enables self-service analytics for business stakeholders  <br>- Optimized reporting structures reduce query latency  <br>- Historical tracking via snapshots supports trend analysis  <br><br>[📌 GitHub Repo](#) | [📊 Architecture Diagram](#)<br><br>---<br><br>### **3. Text-to-SQL Natural Language Interface**<br>*Python • SQL • PySpark • LLM Orchestration*<br><br>Translated business questions into SQL queries, enabling non-technical users to query data warehouses.<br><br>**Key Results:**<br>- **87% first-attempt accuracy** on complex analytical scenarios  <br>- Schema-aware prompting with database metadata  <br>- Automated SQL validation & error correction  <br>- Supports multi-table joins, aggregations, ranking functions, time-series reporting<br><br>---<br><br>## 🎓 Education & Certifications<br><br>**Masters in Computer Science** — University of Texas at Arlington (May 2024) | GPA: 3.80<br><br>**Cloud & Data Certifications:**<br>- Microsoft Certified: Fabric Analytics Engineer Associate (**DP-700**)  <br>- Microsoft Certified: Azure Fundamentals (**AZ-900**)  <br>- Databricks Fundamentals  <br>- Snowflake Hands-On Essentials  <br><br>---<br><br>## 📊 By The Numbers<br><br>| Metric | Impact |<br>|--------|--------|<br>| **5+ years** | Data engineering & ETL design experience |<br>| **12TB+** | Daily data processing at scale |<br>| **99.9%** | Platform availability (orchestration + governance) |<br>| **45%** | ETL latency improvement |<br>| **500K+** | End users served (financial data) |<br>| **95%+** | RAG retrieval accuracy |<br><br>---<br><br>## 🤝 Let's Connect<br><br>I'm actively seeking **Senior Data Engineer** opportunities focused on:<br>- Scalable data platforms (Snowflake, Databricks, AWS)  <br>- Real-time streaming & event-driven architectures  <br>- Generative AI & data products  <br>- Cloud migrations & modern data stack  <br><br>**Open to:**  <br>💼 Full-time roles | 🌍 Remote & hybrid | 🚀 Startups & enterprises<br><br>📧 **Email:** karthikeyaj009@gmail.com  <br>🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/karthikeya-janjanam)  <br>📄 **Resume:** [Download PDF](https://github.com/[your-username]/portfolio/raw/main/Karthikeya_Resume.pdf)  <br>💻 **GitHub:** [View all projects](https://github.com/[your-username])<br><br>---<br><br>**Last updated:** August 2026 | Built with ❤️ using GitHub Pages
+# Hey, I'm Karthikeya Janjanam 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeya2701) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikeyaj009@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=karthikeyaj009-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=karthikeyaj009-ui&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=karthikeyaj009-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Data Engineer** | Snowflake • Databricks • Python • SQL  
+📍 Arlington, TX | 📧 karthikeyaj009@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/karthikeya-janjanam) | 📄 [Resume](https://raw.githubusercontent.com/YOUR_USERNAME/portfolio/main/Karthikeya_Resume.pdf)
 
 ---
-[![](https://komarev.com/ghpvc/?username=karthikeyaj009-ui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+**Senior Data Engineer** with **5+ years** designing enterprise data platforms and ETL/ELT pipelines at scale. I specialize in **Snowflake, Databricks, and Microsoft Fabric**, building data products that process billions of records across financial services, investment platforms, and cloud-native systems.
+
+**I solve real problems:** scaling data pipelines, optimizing warehouse performance, building AI-ready data infrastructure, and turning complexity into competitive advantage.
+
+**Currently:** Data Engineer at **Charles Schwab** | 12TB+ daily transactions | 500K+ investors  
+**Previously:** ETL Developer at **Mphasis** | 20M+ loan records | 99.8% data consistency
+
+---
+
+## 💼 Experience
+
+### Charles Schwab — Data Engineer *(Jul 2024 – Present)*
+- Designed scalable financial data platforms processing **12TB+ daily** across Snowflake, Databricks, Kafka for 500K+ investors
+- Developed event-driven ETL/ELT pipelines with Databricks + Kafka + dbt → **45% latency reduction**
+- Built RAG solutions (LangChain, LangGraph, Azure OpenAI) for investment explanations → **35% accuracy gain**, **40% research time reduction**
+- Consolidated 50M+ records using Airflow, Snowflake, Unity Catalog with enterprise governance
+
+### Mphasis — ETL Developer *(Jun 2020 – Nov 2022)*
+- Built enterprise ETL workflows handling 20M+ loan/payment records using Informatica PowerCenter, Oracle SQL, ADF
+- Maintained **99.8% data consistency** across 15+ banking apps; automated validation → **40% integrity improvement**
+- Optimized batch processing **35%** via SQL tuning, PySpark transformations, incremental loads
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python • SQL • PySpark • Jinja • YAML  
+**Data Platforms:** Snowflake • Databricks • Microsoft Fabric • Azure Data Factory • AWS S3/Glue  
+**Data Engineering:** dbt • Kafka • Airflow • Great Expectations • ETL/ELT  
+**Data Modeling:** Bronze-Silver-Gold • Star Schema • SCD Type 2 • Data Lineage  
+**AI/GenAI:** LangChain • LangGraph • RAG • Azure OpenAI • Pinecone  
+**Cloud & DevOps:** AWS • Azure • Docker • Terraform • GitHub Actions • CI/CD
+
+---
+
+## 🚀 Featured Projects
+
+### 1. RAG PDF Reader & Document Understanding
+*LangChain • Azure OpenAI • Python • Pinecone*
+
+Production-grade RAG system for policy document Q&A with source-backed citations.
+- Hybrid retrieval (BM25 + semantic vector similarity)
+- **95%+ accuracy** | Sub-second latency
+- Handles multi-page PDFs with tables & nested sections
+
+[View on GitHub](https://github.com/YOUR_USERNAME/rag-pdf-reader)
+
+---
+
+### 2. Airbnb Analytics Engineering — Bronze to Gold Pipeline
+*Snowflake • dbt Core • AWS S3 • SQL*
+
+End-to-end medallion architecture data pipeline.
+- **Bronze:** AWS S3 → Snowflake external stages
+- **Silver:** Data cleaning, standardization, business rules
+- **Gold:** One Big Table (OBT) + Dimensional Modeling (Star Schema)
+- **Advanced:** dbt snapshots (SCD Type 2), Jinja macros, lineage tracking, data tests
+
+[View on GitHub](https://github.com/YOUR_USERNAME/airbnb-dbt-pipeline)
+
+---
+
+### 3. Text-to-SQL Natural Language Interface
+*Python • SQL • PySpark • LLM Orchestration*
+
+Translate business questions to SQL queries for non-technical users.
+- **87% first-attempt accuracy** on complex scenarios
+- Schema-aware prompting with database metadata
+- Auto-validates & corrects SQL errors
+- Multi-table joins, aggregations, ranking functions, time-series
+
+[View on GitHub](https://github.com/YOUR_USERNAME/text-to-sql)
+
+---
+
+## 📊 Impact by Numbers
+
+| Metric | Result |
+|--------|--------|
+| **Experience** | 5+ years |
+| **Daily Data Volume** | 12TB+ |
+| **Platform Availability** | 99.9% |
+| **Latency Improvement** | 45% |
+| **Users Served** | 500K+ |
+| **RAG Accuracy** | 95%+ |
+| **SQL Accuracy** | 87% |
+| **Data Consistency** | 99.8% |
+
+---
+
+## 🎓 Education & Certifications
+
+**MS Computer Science** — University of Texas at Arlington (May 2024) | GPA: 3.80
+
+**Certifications:**
+- Microsoft Certified: Fabric Analytics Engineer (DP-700)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Databricks Fundamentals
+- Snowflake Hands-On Essentials
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking for **Senior Data Engineer** roles in:
+- Scalable data platforms (Snowflake, Databricks, AWS)
+- Real-time streaming & event-driven architectures
+- Generative AI & data products
+- Cloud migrations
+
+**Open to:** Full-time | Remote & hybrid | Startups & enterprises
+
+### 📧 Contact
+- **Email:** karthikeyaj009@gmail.com
+- **LinkedIn:** [linkedin.com/in/karthikeya-janjanam](https://www.linkedin.com/in/karthikeya-janjanam)
+- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **Resume:** [Download PDF](https://raw.githubusercontent.com/YOUR_USERNAME/portfolio/main/Karthikeya_Resume.pdf)
+
+---
+
+**Last Updated:** August 2026 | Built with ❤️
